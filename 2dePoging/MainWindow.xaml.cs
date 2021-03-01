@@ -24,5 +24,10 @@ namespace _2dePoging
         {
             InitializeComponent();
         }
+
+        private void btnClick_Click(object sender, RoutedEventArgs e)
+        {
+            lblMagic.Content = "Hello World !";
+        }
     }
 }
