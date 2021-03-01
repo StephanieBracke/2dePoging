@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2dePoging", "2dePoging\2dePoging.csproj", "{98526942-CCFD-45CD-965B-03EE28779C90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98526942-CCFD-45CD-965B-03EE28779C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98526942-CCFD-45CD-965B-03EE28779C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98526942-CCFD-45CD-965B-03EE28779C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98526942-CCFD-45CD-965B-03EE28779C90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AB3F691-5E50-412C-AC8F-23A1F06BEB4C}
+	EndGlobalSection
+EndGlobal
