@@ -29,5 +29,14 @@ namespace _2dePoging
         {
             lblMagic.Content = "Hello World !";
         }
+
+        int iCount = 0;
+        private void btnCount_Click(object sender, RoutedEventArgs e)
+        {
+
+            iCount++;
+            lblCount.Content = iCount.ToString();
+
+        }
     }
 }
